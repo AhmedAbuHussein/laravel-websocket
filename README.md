@@ -13,9 +13,9 @@ Creating simple chat using laravel websocket with private channels and my own se
 
 ## Uses
 
-- **composer install **
-- **npm install **
-- **npm run dev **
-- **php artisan migrate **
-- **php artisan websocket:serv **
+- **composer install**
+- **npm install**
+- **npm run dev**
+- **php artisan migrate**
+- **php artisan websocket:serv**
 - **visit: [localhost:8000/laravel-websockets](http://localhost:8000/laravel-websockets)**
